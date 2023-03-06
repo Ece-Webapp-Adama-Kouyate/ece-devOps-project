@@ -74,6 +74,8 @@ sergei@adaltas.com
 
 ## Contributor
 
-Adama KOUYATE
-Djéha N'GORAN
-Ronel NJOGANG
+*Adama KOUYATE
+
+*Djéha N'GORAN
+
+*Ronel NJOGANG
